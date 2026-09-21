@@ -91,3 +91,4 @@ https://www.figma.com/design/zM8Kg3EtncgfeZuUto131B/Launchly?node-id=0-1&p=f&t=s
 ## Documentation
 
 [View Project Documentation]
+https://docs.google.com/document/d/1BqyFRD3YVUQ1tdp3s_-W5hi85CGf5xl2ewDAfBD_FZs/edit?usp=sharing
